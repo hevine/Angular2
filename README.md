@@ -1,5 +1,7 @@
-
+![](https://github.com/hevine/FE-solution/raw/master/imgs/004ng2_1.png)
 ## Anguar2
+![](https://github.com/hevine/FE-solution/raw/master/imgs/004ng2.png)
+
 
 ###  基础构件
 ###  组件与指令

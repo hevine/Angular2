@@ -1,5 +1,7 @@
 ## TypeScript
 
+![](https://github.com/hevine/FE-solution/raw/master/imgs/003ts.png)
+
 * 除了基于现有语法升级而来的，还有一些酷炫的特性
     * 可使用显式类型定义
         `let foo:number = 42;`
